@@ -4,4 +4,4 @@ Year-long project of learning and implementing processes dedicated Web technolog
 
 Also implemented sql and web development best practices to prevent sql-injection attacks and cross-site attacks where user input was collected and stored.
 
-[ITEC4450 - Web Development Web Pages](http://smithkatrina10.altervista.org/ITEC4450/index.html)
+[Web Technologies & Development Web Pages](http://smithkatrina10.altervista.org/ITEC4450/splash.html)
